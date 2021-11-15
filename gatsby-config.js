@@ -8,6 +8,7 @@ module.exports = {
     description: `A template repository for the purpose of quickly creating a blockchain enabled website.`,
     author: `@redhair`,
   },
+  pathPrefix: "/gatsby-web3-starter",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
